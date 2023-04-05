@@ -14,7 +14,7 @@ All needed requirements can be installed via `pip install -r requirements_cpu.tx
 PYTHONHASHSEED=42 python open18-script.py
 ```
 # Experiments on OGB
-## Feature Selection and Clafficiation Experiment
+## Feature Selection and Classification
 ```python
 PYTHONHASHSEED=42 python ogb-clf.py
 ```
